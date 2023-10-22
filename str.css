@@ -29,6 +29,7 @@ body {
     gap: 15px;
     background-color: #f8f9fb;
     border-radius: 15px;
+    padding: 20px 0px;
  
   
 }
@@ -89,7 +90,7 @@ button {
     right: 50%;
     transform: translateX(50%);
     text-align: center;
-    margin-top: 20px;
+    margin-top: 5px;
 }
 
 .container-table {
